@@ -46,7 +46,7 @@
 
 	$subject = $_POST['subject'].' - Contact from site';
 
-	$EmailTo = "info@yourdomain.com"; // Replace with your email.
+	$EmailTo = "sales@geeke.com"; // Replace with your email.
 
 	// prepare email body text
 	$Body = "";
