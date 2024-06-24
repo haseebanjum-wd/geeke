@@ -403,6 +403,8 @@ header.main-header .header-sticky.active{
 .main-menu .nav-menu-wrapper{
 	flex: 1;
 	text-align: center;
+    display: flex;
+    justify-content: end;
 }
 
 .main-menu .nav-menu-wrapper > ul{
@@ -1865,12 +1867,6 @@ header.main-header .header-sticky.active{
 	width: 100%;
 	height: 400px;
 	border-radius: 40px;
-    filter: grayscale(100%);
-    transition: all 0.3s ease-out;
-}
-
-.google-map iframe:hover{
-    filter: grayscale(0%);
 }
 
 /************************************/
