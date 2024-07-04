@@ -1,4 +1,6 @@
-    <!-- Our Team Section Start -->
+New dummy text added
+
+<!-- Our Team Section Start -->
     <div class="our-team">
         <div class="container">
             <div class="row section-row align-items-center">
